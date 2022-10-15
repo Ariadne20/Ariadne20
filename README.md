@@ -3,7 +3,7 @@
 Um pouco sobre mim:
 
 - 🔭 Atualmente trabalho como desenvolvedora Salesforce no [Itaú](https://www.itau.com.br/)
-- 🌱 No momento estou estudando Front-End (Angular, React)
+- 🌱 No momento estou finalizando minha graduação em Sistemas de Informação e estudando Front-End (Angular, React)
 - 📚 Certificações: 
   - Salesforce Certified Administrator
   - AWS Certified Cloud Practitioner
