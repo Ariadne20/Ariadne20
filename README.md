@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá, eu sou a Ariadne (●'◡'●)
 
-<!--
-**Ariadne20/Ariadne20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco sobre mim:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalho como desenvolvedora Salesforce no [Itaú](https://www.itau.com.br/)
+- 🌱 No momento estou estudando Front-End (Angular, React)
+- 📚 Certificações: 
+  - Salesforce Certified Administrator
+  - AWS Certified Cloud Practitioner
+  - Kanban System Design (KMP I)
+- 📫 Linkedin: https://www.linkedin.com/in/ariadneguimaraes/
+- 📫 Trailblazer: https://trailblazer.me/id/aandrade25
+- Palestras:
+    - [Developer Conference - Da motivação a ação: Moving Motivators ao Kata de Melhoria](https://thedevconf.com/palestrante/ariadne-guimaraes-andrade)
+- 📑 Idiomas:
+  - Inglês - Avançado
+  - Espanhol - Intermediário
+  - Alemão - Básico
+  - Japonês - Intermediário
