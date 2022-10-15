@@ -20,9 +20,8 @@ Um pouco sobre mim:
   <a href="https://github.com/Ariadne20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ariadne20&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadne20&layout=compact&langs_count=5&theme=cobalt"/>
-  <img style="margin-top:5%" align="right" alt="Ari-pic" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1030949873345904732/1030951404434636870/IMG_6733_1.jpeg? width=676&height=676">
-
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
