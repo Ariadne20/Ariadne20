@@ -10,11 +10,7 @@ Um pouco sobre mim:
   - Kanban System Design (KMP I)
 - Palestras:
     - [Developer Conference - Da motivação a ação: Moving Motivators ao Kata de Melhoria](https://thedevconf.com/palestrante/ariadne-guimaraes-andrade)
-- 📑 Idiomas:
-  - Inglês - Avançado  
-  - Espanhol - Intermediário
-  - Alemão - Básico
-  - Japonês - Intermediário
+    
 - 💻 Habilidades e contatos:
   
   <div style="display: inline_block">
