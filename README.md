@@ -1,4 +1,4 @@
-## Olá, eu sou a Ariadne (●'◡'●)
+##   <img align="center" alt="Ari-icon" height="120" width="80" src="https://media.discordapp.net/attachments/1030949873345904732/1030951404434636870/IMG_6733_1.jpeg?width=336&height=473" /> Olá, eu sou a Ariadne (●'◡'●)
 
 Um pouco sobre mim:
 
@@ -42,6 +42,6 @@ Um pouco sobre mim:
 
   
  
-  ![Snake animation](https://github.com/Ariadne20/Ariadne20/blob/output/github-contribution-grid-snake.svg)
+  ![snake-gif](https://github.com/Ariadne20/Ariadne20/blob/output/github-contribution-grid-snake.svg)
  
 </div>
