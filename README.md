@@ -1,4 +1,4 @@
-##   <img align="center" alt="Ari-icon" height="80" width="60" src="https://media.discordapp.net/attachments/1030949873345904732/1030951404434636870/IMG_6733_1.jpeg?width=336&height=473" /> Olá, eu sou a Ariadne (●'◡'●)
+##   Olá, eu sou a Ariadne 🖐
 
 Um pouco sobre mim:
 
