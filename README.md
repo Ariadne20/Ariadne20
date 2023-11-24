@@ -2,7 +2,7 @@
 
 Um pouco sobre mim:
 
-- 🔭 Atualmente trabalho como desenvolvedora Salesforce no [Itaú](https://www.itau.com.br/)
+- 🔭 Atualmente trabalho como desenvolvedora Java no [Itaú](https://www.itau.com.br/), porém possuo experiência com Salesforce
 - 🌱 Graduada em Sistemas de Informação e estudando Python
 - 📚 Certificações: 
   - Salesforce Certified Administrator
